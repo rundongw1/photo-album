@@ -34,79 +34,79 @@ h1 {text-align: center;}
 .ai-1 {
     top: 0;
     left: 0;
-	-webkit-transform: rotate(15deg);
-	-moz-transform: rotate(15deg);
-	transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    -moz-transform: rotate(15deg);
+    transform: rotate(15deg);
 }
 
 .ai-2 {
     top: 0;
-	left: 150px;
-	-webkit-transform: rotate(-10deg);
-	-moz-transform: rotate(-10deg);
-	transform: rotate(-10deg);
+    left: 150px;
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    transform: rotate(-10deg);
 }
 
 .ai-3 {
     top: 0;
-	right: 350px;
-	-webkit-transform: rotate(5deg);
-	-moz-transform: rotate(5deg);
-	transform: rotate(5deg);
+    right: 350px;
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    transform: rotate(5deg);
 }
 
 .ai-4 {
     top: 0;
-	right: 150px;
-	-webkit-transform: rotate(-10deg);
-	-moz-transform: rotate(-10deg);
-	transform: rotate(-10deg);
+    right: 150px;
+    -webkit-transform: rotate(-10deg);
+    -moz-transform: rotate(-10deg);
+    transform: rotate(-10deg);
 }
 
 .ai-5 {
     top: 0;
-	right: 0;
-	-webkit-transform: rotate(15deg);
-	-moz-transform: rotate(15deg);
-	transform: rotate(15deg);
+    right: 0;
+    -webkit-transform: rotate(15deg);
+    -moz-transform: rotate(15deg);
+    transform: rotate(15deg);
 }
 
 .ai-6 {
     top: 150px;
-	left:0;
-	-webkit-transform: rotate(-15deg);
-	-moz-transform: rotate(-15deg);
-	transform: rotate(-15deg);
+    left:0;
+    -webkit-transform: rotate(-15deg);
+    -moz-transform: rotate(-15deg);
+    transform: rotate(-15deg);
 }
 
 .ai-7 {
     top: 150px;
-	left: 150px;
-	-webkit-transform: rotate(10deg);
-	-moz-transform: rotate(10deg);
-	transform: rotate(10deg);
+    left: 150px;
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    transform: rotate(10deg);
 }
 
 .ai-8 {
     top: 150px;
-	right: 350px;
-	-webkit-transform: rotate(-5deg);
-	-moz-transform: rotate(-5deg);
-	transform: rotate(-5deg);
+    right: 350px;
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    transform: rotate(-5deg);
 }
 
 .ai-9 {
     top: 150px;
-	right: 150px;
-	-webkit-transform: rotate(10deg);
-	-moz-transform: rotate(10deg);
-	transform: rotate(10deg);
+    right: 150px;
+    -webkit-transform: rotate(10deg);
+    -moz-transform: rotate(10deg);
+    transform: rotate(10deg);
 }
 
 .ai-10 {
     top: 150px;
     right: 0;
-	-webkit-transform: rotate(-15deg);
-	-moz-transform: rotate(-15deg);
-	transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
+    -moz-transform: rotate(-15deg);
+    transform: rotate(-15deg);
 }
